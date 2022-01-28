@@ -1,0 +1,4 @@
+,Country,users,newUsers,sessions,bounceRate,pageviewsPerSession,avgSessionDuration,transactions,transactionRevenue,transactionsPerSession,end date
+0,Indonesia,2,3,3,33.33333333333333,9.0,757.3333333333334,0,0.0,0.0,2022-01-26
+1,Singapore,30,30,137,32.11678832116788,4.795620437956204,425.59124087591243,0,0.0,0.0,2022-01-26
+2,United States,2,2,2,100.0,1.0,0.0,0,0.0,0.0,2022-01-26
